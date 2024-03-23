@@ -35,7 +35,7 @@ header{
     15px 15px 15px rgb(0,0,0,0.1);
 }
 body{
-    background: #eee5e5;
+    background: #c8c9ca;
     }
 *{
     margin: 0;
@@ -109,8 +109,8 @@ nav li a{
 
 .highlight img{
    
-  width: 70px;
-  height: 70px;
+  width: 75px;
+  height: 75px;
    border: solid black 0px;
    border-radius: 10px;
    position: relative;
@@ -125,8 +125,8 @@ nav li a{
    
 }
 .highlight1 img{
-    width: 70px;
-    height: 70px;
+    width: 75px;
+    height: 75px;
     border: solid black 0px;
     border-radius: 10px;
     position: relative;
@@ -143,8 +143,8 @@ nav li a{
   
 }
 .highlight2 img{
-    width: 70px;
-    height: 70px;
+    width: 75px;
+    height: 75px;
     border: solid black 0px;
     border-radius: 10px;
     position: relative;
@@ -498,7 +498,7 @@ form{
     align-items: center;
     justify-content: center;
     margin-top: 5vh;
-    color: #3b3b3b;
+    background: #c8c9ca;
     
 }
 .formelement{
@@ -519,7 +519,7 @@ form{
     margin: 0;
     padding: 0;
     width: auto;
-    background-color: #eee5e5;
+    background: #c8c9ca;
 }
 
 
@@ -549,13 +549,14 @@ form label{
 }
 form input{
     width: 38vh;
+    height: 30px;
     padding: 7px;
     border: none;
     border-radius: 6px;
     box-shadow:  15px 15px 15px rgba(212, 201, 201, 0.711),
     15px 15px 15px rgba(255, 255, 255, 0.573);
     outline: none;
-    background-color: #eee5e5;
+    background: #c8c9ca;
     
 }
 input[type="submit"] {
@@ -564,7 +565,7 @@ input[type="submit"] {
     height: 35px;
     margin-top: 4vh;
     border: none;
-    background-color: #3b3b3b;
+    background: #c8c9ca;
     font-size: 18px;
     cursor: pointer;
 
